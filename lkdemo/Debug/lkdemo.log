@@ -1,0 +1,96 @@
+﻿Build started 4/13/2017 1:22:06 AM.
+     1>Project "F:\xu ly anh\Bao cao\lkdemo7 -M6\lkdemo\lkdemo\lkdemo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\lkdemo.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"F:\xu ly anh\opencv\opencv\build\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt tracker.cpp
+         tracker.cpp
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(4): error C2039: 'vector' : is not a member of 'std'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(4): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(4): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(13): error C2039: 'vector' : is not a member of 'std'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(13): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(13): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(14): error C2039: 'vector' : is not a member of 'std'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(14): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(14): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(16): error C2039: 'vector' : is not a member of 'std'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(16): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(16): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(17): error C2039: 'vector' : is not a member of 'std'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(17): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(17): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(18): error C2146: syntax error : missing ';' before identifier 'box'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(19): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(19): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(20): error C2143: syntax error : missing ';' before '<'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(20): error C2238: unexpected token(s) preceding ';'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(22): error C2146: syntax error : missing ';' before identifier 'HistA'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(24): error C2146: syntax error : missing ';' before identifier 'histlbp'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(24): error C2061: syntax error : identifier 'Mat'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(24): warning C4183: 'histlbp': missing return type; assumed to be a member function returning 'int'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(25): error C2146: syntax error : missing ';' before identifier 'histImg'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(25): error C2061: syntax error : identifier 'Mat'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(25): warning C4183: 'histImg': missing return type; assumed to be a member function returning 'int'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.h(26): error C2061: syntax error : identifier 'MatND'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(6): error C2059: syntax error : ']'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(6): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(6): error C2143: syntax error : missing ';' before '}'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(7): error C2059: syntax error : ']'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(7): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(7): error C2143: syntax error : missing ';' before '}'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(8): error C2059: syntax error : ']'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(8): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(8): error C2143: syntax error : missing ';' before '}'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(9): error C2059: syntax error : ']'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(9): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(9): error C2143: syntax error : missing ';' before '}'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(10): error C2059: syntax error : ']'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(10): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(10): error C2143: syntax error : missing ';' before '}'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2143: syntax error : missing ';' before 'Vtracker::histImg'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2065: 'Mat' : undeclared identifier
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2146: syntax error : missing ')' before identifier 'img'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2761: 'int Vtracker::histImg(void)' : member function redeclaration not allowed
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2059: syntax error : ')'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13): error C2447: '{' : missing function header (old-style formal list?)
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2143: syntax error : missing ';' before 'Vtracker::histlbp'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2086: 'int MatND' : redefinition
+                 f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(13) : see declaration of 'MatND'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2065: 'Mat' : undeclared identifier
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2146: syntax error : missing ')' before identifier 'img'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2761: 'int Vtracker::histlbp(void)' : member function redeclaration not allowed
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2059: syntax error : ')'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(25): error C2447: '{' : missing function header (old-style formal list?)
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(35): error C2146: syntax error : missing ')' before identifier 'his1'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(35): error C2761: 'float Vtracker::matching_level(void)' : member function redeclaration not allowed
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(35): error C2059: syntax error : ')'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(35): error C2143: syntax error : missing ';' before '{'
+     1>f:\xu ly anh\bao cao\lkdemo7 -m6\lkdemo\lkdemo\tracker.cpp(35): error C2447: '{' : missing function header (old-style formal list?)
+     1>Done Building Project "F:\xu ly anh\Bao cao\lkdemo7 -M6\lkdemo\lkdemo\lkdemo.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.87
